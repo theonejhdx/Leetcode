@@ -1,3 +1,5 @@
+# 168/169 passed
+
 class Solution(object):
     def findSubstring(self, s, words):
         """
